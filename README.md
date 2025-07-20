@@ -66,14 +66,9 @@ I'm a Product Manager and Operations Analytics professional with over **2 years 
 
 ---
 
-### 📊 GitHub Stats
-
-![Ilmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmitabassum&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmitabassum&layout=compact&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILMITABASSUM&layout=compact&theme=dracula)
 ---
 
 > _“Turning data into action, and strategy into results.”_
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ilmitabassum)
 
